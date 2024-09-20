@@ -2,10 +2,10 @@
 
 ## GROUP <add-group-name>
 
-- Member 1: <Kieu Van Bach>
-- Member 2: <Nguyen Thanh Hien>
-- Member 3: <Dinh Thanh Huyen>
-- Member 4: <Tran Khanh Linh>
+- Member 1: Kieu Van Bach
+- Member 2: Nguyen Thanh Hien
+- Member 3: Dinh Thanh Huyen
+- Member 4: Tran Khanh Linh
 
 ## Starting server
 
